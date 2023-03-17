@@ -2,6 +2,8 @@
 
 This respository contains files from a group project on Steam Store.
 
+Permission was taken from all group members. This work does not violate any honor code.
+
 Code is written in **R**
 
 Libraries used:
