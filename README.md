@@ -17,6 +17,7 @@ You can also view the presentation through this link: https://docs.google.com/pr
 
 dataset can be downloaded here: https://www.kaggle.com/nikdavis/steam-store-games
 
+<img width="1063" alt="image" src="https://user-images.githubusercontent.com/113309768/226065243-35cfd001-30ee-41a5-878d-4fab7e08db50.png">
 
 ![image](https://user-images.githubusercontent.com/113309768/224932087-c7b371dd-547d-4710-9741-3249a1fb1ac5.png)
 
